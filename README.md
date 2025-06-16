@@ -1,7 +1,7 @@
 # ✨ MY Profile ✨
   赤堀 匠海
   <br>
-  角川ドワンゴ情報工科学院 2年次 IT総合コース
+  KADOKAWAドワンゴ情報工科学院 2年次 IT総合コース
   <br>
   [ポートフォリオを見る](http://takumisportfolio.main.jp)
   
