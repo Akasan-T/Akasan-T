@@ -3,7 +3,7 @@
   <br>
   KADOKAWAドワンゴ情報工科学院 2年次 IT総合コース
   <br>
-  [ポートフォリオを見る](http://takumisportfolio.main.jp)
+  [ポートフォリオを見る](https://takumisportfolio.main.jp)
   
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Akasan-T)
 
