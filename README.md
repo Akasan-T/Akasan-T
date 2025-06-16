@@ -1,5 +1,12 @@
-## Hi there 👋
+# ✨ MY Profile ✨
+  赤堀 匠海
+  <br>
+  角川ドワンゴ情報工科学院 2年次 IT総合コース
+  
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Akasan-T)
 
+
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
 <!--
 **Akasan-T/Akasan-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
