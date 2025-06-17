@@ -27,7 +27,7 @@
 ![](https://skillicons.dev/icons?i=django,laravel)
 <br>
 <br>
-**Django**:
+**Django**:制作経験あり
 <br>
 **Laravel**:ToDoアプリ制作で使用
 
@@ -37,11 +37,11 @@
 ![](https://skillicons.dev/icons?i=mysql,vscode,git,github,docker,figma,discord,notion,raspberrypi)
 <br>
 <br>
-**MySQL**:
+**MySQL**:データベース構築時の使用で経験
 <br>
 **VScode**:コーディング時に使用
 <br>
-**Git**:
+**Git**:リポジトリの管理で使用
 <br>
 **GitHub**:GitHubでリポジトリ共有を用いた制作
 <br>
