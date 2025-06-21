@@ -22,7 +22,7 @@
 <br>
 <br>
 - #### **Django**:制作経験あり<br>
-- #### *＊Laravel**:ToDoアプリ制作で使用
+- #### **Laravel**:ToDoアプリ制作で使用
 
 
 
