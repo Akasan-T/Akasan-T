@@ -27,7 +27,7 @@
 
 
 ## DB and Dev Tools etc
-![](https://skillicons.dev/icons?i=mysql,vscode,git,github,docker,figma,discord,notion,raspberrypi)
+![](https://skillicons.dev/icons?i=mysql,vscode,git,github,docker,wordpress,figma,discord,notion,raspberrypi)
 <br>
 <br>
 - #### **MySQL**:データベース構築時の使用で経験<br>
@@ -35,6 +35,7 @@
 - #### **Git**:リポジトリの管理で使用<br>
 - #### **GitHub**:リポジトリ共有を用いた制作<br>
 - #### **Docker**:環境構築経験あり<br>
+- #### **WordPress**:テーマ制作経験あり<br>
 - #### **Figma**:Web制作のデザイン時に使用<br>
 - #### **Discord**:テーム制作時に連絡ツールとして使用<br>
 - #### **Notion**:ペルソナ分析や、書類共有時に使用<br>
