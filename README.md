@@ -52,6 +52,7 @@
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akasan-T&layout=compact&theme=tokyonight)](https://github.com/Akasan-T/)
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Akasan-T&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Akasan-T/)
+[![](https://github-profile-trophy.vercel.app/?username=Akasan-T&theme=onedark)
 
 <!--
 **Akasan-T/Akasan-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
