@@ -13,7 +13,7 @@
 
 
 ## Programming Languages
-![](https://skillicons.dev/icons?i=html,css,js,java,python,php)
+![](https://skillicons.dev/icons?i=html,css,js,java,python,php,c#)
 <br>
 <br>
 - #### **HTML/CSS**:Webサイト制作で使用 <br>
@@ -21,13 +21,15 @@
 - #### **Java**:基礎から学習中<br>
 - #### **Python**:if文、for文、関数など基本構文が書けます。<br>
 - #### **PHP**:基礎から学習中
+- #### **C#**:インターン課題で学習中
 
 ## Frameworks
-![](https://skillicons.dev/icons?i=django,laravel)
+![](https://skillicons.dev/icons?i=django,laravel,react)
 <br>
 <br>
 - #### **Django**:制作経験あり<br>
 - #### **Laravel**:ToDoアプリ制作で使用
+- #### **React**:インターンシップ課題で使用（学習中）
 
 
 
