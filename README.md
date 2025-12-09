@@ -13,7 +13,7 @@
 
 
 ## Programming Languages
-![](https://skillicons.dev/icons?i=html,css,js,java,python,php,c#)
+![](https://skillicons.dev/icons?i=html,css,js,java,python,php,cs)
 <br>
 <br>
 - #### **HTML/CSS**:Webサイト制作で使用 <br>
