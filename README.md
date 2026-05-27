@@ -52,12 +52,16 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Infrastructure & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -102,6 +106,19 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 <tr>
 <td width="50%">
 
+### ☁️ クモニケーション / cloudication
+**匿名雲投稿アプリ（チーム開発）**
+
+匿名で「雲」を投稿・地図上で共有できるWebアプリ。  
+Next.js + Express のモノレポ構成で、AWS S3・Mapbox・Prismaを組み合わせた本格的なフルスタック実装。
+
+`TypeScript` `Next.js` `Express` `Prisma` `PostgreSQL` `AWS S3` `Docker`
+
+→ [**リポジトリを見る**](https://github.com/Akasan-T/cloudication)
+
+</td>
+<td width="50%">
+
 ### ✅ Laravel ToDo
 **タスク管理アプリ（個人開発）**
 
@@ -113,6 +130,8 @@ Laravel によるToDoアプリ。
 → [**リポジトリを見る**](https://github.com/Akasan-T/Laravel_ToDo)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌐 Portfolio Site
@@ -123,6 +142,7 @@ Laravel によるToDoアプリ。
 → [**サイトを見る**](https://takumisportfolio.main.jp)
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
