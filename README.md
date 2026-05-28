@@ -147,7 +147,9 @@ Laravel によるToDoアプリ。
 </table>
 
 ---
+## 📊 GitHub Stats
 <div align="center">
+
 
 [![](https://github-readme-stats.vercel.app/api?username=Akasan-T&show_icons=true&count_private=true&theme=tokyonight&locale=ja&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Akasan-T)
 &nbsp;
@@ -162,7 +164,5 @@ Laravel によるToDoアプリ。
 [![](https://github-profile-trophy.vercel.app/?username=Akasan-T&theme=tokyonight&no-frame=true&column=6&margin-w=4)](https://github.com/Akasan-T)
 
 </div>
-
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer)
