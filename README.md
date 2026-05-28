@@ -147,6 +147,21 @@ Laravel によるToDoアプリ。
 </table>
 
 ---
+<div align="center">
+
+[![](https://github-readme-stats.vercel.app/api?username=Akasan-T&show_icons=true&count_private=true&theme=tokyonight&locale=ja&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Akasan-T)
+&nbsp;
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akasan-T&layout=compact&theme=tokyonight&locale=ja&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/Akasan-T)
+
+<br>
+
+[![](https://github-readme-streak-stats.herokuapp.com?user=Akasan-T&theme=tokyonight&locale=ja&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/Akasan-T)
+
+<br>
+
+[![](https://github-profile-trophy.vercel.app/?username=Akasan-T&theme=tokyonight&no-frame=true&column=6&margin-w=4)](https://github.com/Akasan-T)
+
+</div>
 
 <br>
 
