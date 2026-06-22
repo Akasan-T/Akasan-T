@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Takumi%20Akahori&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Full-Stack%20Engineer&descAlignY=60&descAlign=50&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Laravel+%2F+Django+Backend+Developer;Full-Stack+Web+Engineer;Team+Leader+%26+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Laravel+%2F+ASP.NET+Backend+Developer;Full-Stack+Web+Engineer;Team+Leader+%26+Problem+Solver)](https://git.io/typing-svg)
 
 <br>
 
