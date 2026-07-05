@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Takumi%20Akahori&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Full-Stack%20Engineer&descAlignY=60&descAlign=50&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Laravel+%2F+ASP.NET+Backend+Developer;Full-Stack+Web+Engineer;Team+Leader+%26+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Laravel+%2F+ASP.NET+Backend+Developer;Full-Stack+Web+Engineer;Team+Leader+in+3+Projects)](https://git.io/typing-svg)
 
 <br>
 
@@ -16,18 +16,25 @@
 
 ## 👤 About Me
 
-KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。  
-**Laravel / ASP.NET を中心としたバックエンド開発**を得意とし、  
+KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
+**Laravel / ASP.NET を中心としたバックエンド開発**を得意とし、
 フロントエンドからインフラまで一貫して担当できるフルスタックエンジニアを目指しています。
+
+産学連携・文化祭・イベント制作など **3つのチームでリーダー** を務め、
+要件定義から設計・実装・リリースまでのフルサイクルと、実案件での開発経験を積んできました。
 
 <table>
 <tr>
 <td>🏆</td>
-<td><b>産学連携プロジェクト（サントリーGIC協業）でチームリーダーを担当</b><br>要件定義・設計・実装・リリースのフルサイクルを指揮</td>
+<td><b>3つのチームでリーダーを担当</b><br>産学連携2件・文化祭制作でチームを牽引し、進行管理と技術選定を主導</td>
+</tr>
+<tr>
+<td>🤝</td>
+<td><b>産学連携プロジェクトでフルサイクルを指揮</b><br>要件定義・設計・実装・リリースまでを一貫して担当（HiKaRiWo / 若鯱家）</td>
 </tr>
 <tr>
 <td>💼</td>
-<td><b>インターンシップでの実務経験あり</b><br>実際の開発現場でのワークフロー・チーム開発を経験</td>
+<td><b>実案件・インターンでの実務経験あり</b><br>企業のコーポレートサイト制作に参画し、フロント〜バックまで担当</td>
 </tr>
 <tr>
 <td>🛠️</td>
@@ -74,79 +81,140 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 ## 🚀 Featured Projects
 
+<div align="center"><i>個人開発から産学連携・実案件まで ― 制作したプロダクトの一部を紹介します。</i></div>
+
+<br>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📝 Code Note
-**Laravelによるコード管理Webアプリ（個人開発）**
+<a href="https://cloudication.app"><img src="https://raw.githubusercontent.com/Akasan-T/cloudication/main/images/screenshot-map.jpg" width="100%" alt="cloudication / クモニケーション"/></a>
 
-コードやメモをMarkdown形式で整理・管理できるWebアプリ。  
-リアルタイムMarkdownプレビュー・ラベル管理・画像挿入を実装。
+### ☁️ cloudication / クモニケーション
+**チーム開発 ― フルスタック実装**
 
-`PHP` `Laravel` `CodeMirror` `MySQL`
-
-→ [**リポジトリを見る**](https://github.com/Akasan-T/Code_Note)
-
-</td>
-<td width="50%">
-
-### 🤝 産学連携Webシステム
-**サントリーGIC協業 ― チームリーダー**
-
-企業との協業PJで開発全体を指揮。  
-要件定義〜リリースのフルサイクルを担当し、Django + DockerでWebシステムを構築。
-
-`Python` `Django` `Docker` `MySQL`
-
-→ [**リポジトリを見る**](https://github.com/Akasan-T/TECJUM-teamE_hikariwo)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☁️ クモニケーション / cloudication
-**匿名雲投稿アプリ（チーム開発）**
-
-匿名で「雲」を投稿・地図上で共有できるWebアプリ。  
-Next.js + Express のモノレポ構成で、AWS S3・Mapbox・Prismaを組み合わせた本格的なフルスタック実装。
+匿名で「雲」を投稿し地図上で共有するWebアプリ。**Next.js + Express のモノレポ構成**で
+フロント・バック間の型を共有する type-safe 設計を採用。AWS S3・Mapbox・Prisma を組み合わせた本格的なフルスタック実装。
 
 `TypeScript` `Next.js` `Express` `Prisma` `PostgreSQL` `AWS S3` `Docker`
 
-→ [**リポジトリを見る**](https://github.com/Akasan-T/cloudication)
+[**🌐 Live**](https://cloudication.app) ・ [**リポジトリ**](https://github.com/Akasan-T/cloudication)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✅ Laravel ToDo
-**タスク管理アプリ（個人開発）**
+<a href="https://github.com/Akasan-T/TECJUM-teamE_hikariwo"><img src="https://raw.githubusercontent.com/Akasan-T/TECJUM-teamE_hikariwo/main/images/lp.png" width="100%" alt="HiKaRiWo"/></a>
 
-Laravel によるToDoアプリ。  
-ユーザー認証・CRUD・フォームバリデーションを実装。
+### 🤝 HiKaRiWo（産学連携）
+**チームリーダー ― 要件定義・実装指揮**
 
-`PHP` `Laravel` `JavaScript` `MySQL`
+サントリーGIC様との産学連携PJでチームリーダーを担当。
+要件定義〜リリースのフルサイクルを指揮し、Django + Docker でWebシステムを構築。
 
-→ [**リポジトリを見る**](https://github.com/Akasan-T/Laravel_ToDo)
+`Python` `Django` `Docker` `MySQL`
+
+[**→ リポジトリを見る**](https://github.com/Akasan-T/TECJUM-teamE_hikariwo)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Portfolio Site
-**ポートフォリオWebサイト**
+<img src="https://takumisportfolio.main.jp/wp-content/uploads/2026/07/%E8%8B%A5%E9%AF%B1%E5%AE%B6-top-1024x580.png" width="100%" alt="若鯱家 Webサイト"/>
 
-自身のスキル・実績・プロジェクトをまとめたポートフォリオサイト。
+### 🍜 若鯱家 Webサイト（産学連携）
+**チームリーダー ― フロント設計**
 
-→ [**サイトを見る**](https://takumisportfolio.main.jp)
+株式会社若鯱家様との産学連携PJ。若年層の集客を課題に、
+アンケート調査をもとに情報設計・デザインからリニューアルを実施。
+
+`HTML/CSS` `JavaScript` `UIデザイン`
+
+<sub>※ Web公開なし ― 詳細は面談時にご紹介できます</sub>
 
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Akasan-T/Laravel_ToDo"><img src="https://raw.githubusercontent.com/Akasan-T/Laravel_ToDo/main/imags/tasklist-page.png" width="100%" alt="Laravel ToDo"/></a>
+
+### ✅ Laravel ToDo（個人開発）
+**設計・実装すべてを担当**
+
+Laravel によるタスク管理アプリ。
+ユーザー認証・CRUD・フォームバリデーションを実装し、バックエンドの基礎を体系的に習得。
+
+`PHP` `Laravel` `JavaScript` `MySQL`
+
+[**→ リポジトリを見る**](https://github.com/Akasan-T/Laravel_ToDo)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://takumisportfolio.main.jp"><img src="https://takumisportfolio.main.jp/wp-content/uploads/2026/07/portfolio-1024x580.png" width="100%" alt="Portfolio Site"/></a>
+
+### 🌐 Portfolio Site（個人開発）
+**デザイン・コーディングすべてを担当**
+
+自身のポートフォリオサイト。Three.js による3D演出・GSAPのスクロール
+アニメーションを実装し、WordPressテーマ化にも対応。
+
+`Three.js` `GSAP` `JavaScript` `WordPress`
+
+[**→ サイトを見る**](https://takumisportfolio.main.jp)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://takumisportfolio.main.jp/wp-content/uploads/2026/07/YL-MEMORIA-1024x580.png" width="100%" alt="YL MEMORIA"/>
+
+### 🌸 YL MEMORIA（文化祭・チーム制作）
+**チームリーダー ― フロント・デザイン**
+
+文化祭の展示作品「花詞データベース」。約50種の花を自ら調査し、
+JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実装。
+
+`HTML/CSS` `JavaScript`
+
+<sub>※ サイト公開なし</sub>
+
+</td>
+</tr>
+</table>
+
+### 💻 その他のプロジェクト
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📝 Code Note（個人開発）
+コードやメモをMarkdown形式で整理・管理できるWebアプリ。
+リアルタイムMarkdownプレビュー・ラベル管理・画像挿入を実装。
+
+`PHP` `Laravel` `CodeMirror` `MySQL` `Docker`
+
+[**→ リポジトリを見る**](https://github.com/Akasan-T/Code_Note)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🍽️ La Pesca 様 Webサイト（実案件）
+クライアント案件として制作に参加したWebサイト。
+実案件のワークフローの中でフロントエンドのコーディングを担当。
+
+`HTML/CSS` `JavaScript`
+
+<sub>※ 掲載のみ承認いただいた案件 ― 詳細は面談時に</sub>
+
+</td>
 </tr>
 </table>
 
 ---
+
 ## 📊 GitHub Stats
 <div align="center">
 
