@@ -89,7 +89,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://cloudication.app"><img src="https://raw.githubusercontent.com/Akasan-T/cloudication/main/images/screenshot-web.jpg" width="100%" alt="cloudication / クモニケーション"/></a>
+<a href="https://cloudication.app"><img src="https://raw.githubusercontent.com/Akasan-T/cloudication/main/images/screenshot-clouds.jpg" width="48%" alt="cloudication 雲の投稿"/> <img src="https://raw.githubusercontent.com/Akasan-T/cloudication/main/images/screenshot-detail.jpg" width="48%" alt="cloudication 投稿詳細"/></a>
 
 ### ☁️ cloudication / クモニケーション
 **チーム開発 ― フルスタック実装**
