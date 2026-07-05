@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Laravel+%2F+ASP.NET+Backend+Developer;Full-Stack+Web+Engineer;Team+Leader+in+3+Projects)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Akasan-T&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-takumisportfolio.main.jp-0078D4?style=for-the-badge&logoColor=white)](https://takumisportfolio.main.jp)
