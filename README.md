@@ -89,7 +89,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://cloudication.app"><img src="https://raw.githubusercontent.com/Akasan-T/cloudication/main/images/screenshot-clouds.jpg" width="48%" alt="cloudication 雲の投稿"/> <img src="https://raw.githubusercontent.com/Akasan-T/cloudication/main/images/screenshot-detail.jpg" width="48%" alt="cloudication 投稿詳細"/></a>
+<a href="https://cloudication.app"><img src="https://raw.githubusercontent.com/Aka-Tak/cloudication/main/images/screenshot-clouds.jpg" width="48%" alt="cloudication 雲の投稿"/> <img src="https://raw.githubusercontent.com/Aka-Tak/cloudication/main/images/screenshot-detail.jpg" width="48%" alt="cloudication 投稿詳細"/></a>
 
 ### ☁️ cloudication / クモニケーション
 **チーム開発 ― フルスタック実装**
@@ -99,12 +99,12 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 `TypeScript` `Next.js` `Express` `Prisma` `PostgreSQL` `AWS S3` `Docker`
 
-[**🌐 Live**](https://cloudication.app) ・ [**リポジトリ**](https://github.com/Akasan-T/cloudication)
+[**🌐 Live**](https://cloudication.app) ・ [**リポジトリ**](https://github.com/Aka-Tak/cloudication)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Akasan-T/TECJUM-teamE_hikariwo"><img src="https://raw.githubusercontent.com/Akasan-T/TECJUM-teamE_hikariwo/main/images/lp.png" width="100%" alt="HiKaRiWo"/></a>
+<a href="https://github.com/Aka-Tak/TECJUM-teamE_hikariwo"><img src="https://raw.githubusercontent.com/Aka-Tak/TECJUM-teamE_hikariwo/main/images/lp.png" width="100%" alt="HiKaRiWo"/></a>
 
 ### 🤝 HiKaRiWo（産学連携）
 **チームリーダー ― 要件定義・実装指揮**
@@ -114,7 +114,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 `Python` `Django` `Docker` `MySQL`
 
-[**→ リポジトリを見る**](https://github.com/Akasan-T/TECJUM-teamE_hikariwo)
+[**→ リポジトリを見る**](https://github.com/Aka-Tak/TECJUM-teamE_hikariwo)
 
 </td>
 </tr>
@@ -136,7 +136,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Akasan-T/Laravel_ToDo"><img src="https://raw.githubusercontent.com/Akasan-T/Laravel_ToDo/main/imags/tasklist-page.png" width="100%" alt="Laravel ToDo"/></a>
+<a href="https://github.com/Aka-Tak/Laravel_ToDo"><img src="https://raw.githubusercontent.com/Aka-Tak/Laravel_ToDo/main/imags/tasklist-page.png" width="100%" alt="Laravel ToDo"/></a>
 
 ### ✅ Laravel ToDo（個人開発）
 **設計・実装すべてを担当**
@@ -146,7 +146,7 @@ Laravel によるタスク管理アプリ。
 
 `PHP` `Laravel` `JavaScript` `MySQL`
 
-[**→ リポジトリを見る**](https://github.com/Akasan-T/Laravel_ToDo)
+[**→ リポジトリを見る**](https://github.com/Aka-Tak/Laravel_ToDo)
 
 </td>
 </tr>
@@ -196,7 +196,7 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 
 `PHP` `Laravel` `CodeMirror` `MySQL` `Docker`
 
-[**→ リポジトリを見る**](https://github.com/Akasan-T/Code_Note)
+[**→ リポジトリを見る**](https://github.com/Aka-Tak/Code_Note)
 
 </td>
 <td width="50%" valign="top">
@@ -218,25 +218,25 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Akasan-T/Akasan-T/main/metrics.svg" width="100%" alt="GitHub Metrics" />
+<img src="https://raw.githubusercontent.com/Aka-Tak/Aka-Tak/main/metrics.svg" width="100%" alt="GitHub Metrics" />
 
 <br>
 
-[![](https://github-readme-stats.vercel.app/api?username=Akasan-T&show_icons=true&count_private=true&theme=tokyonight&locale=ja&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Akasan-T)
+[![](https://github-readme-stats.vercel.app/api?username=Aka-Tak&show_icons=true&count_private=true&theme=tokyonight&locale=ja&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Aka-Tak)
 &nbsp;
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akasan-T&layout=compact&theme=tokyonight&locale=ja&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/Akasan-T)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aka-Tak&layout=compact&theme=tokyonight&locale=ja&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/Aka-Tak)
 
 <br>
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=Akasan-T&theme=tokyonight&locale=ja&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/Akasan-T)
+[![](https://github-readme-streak-stats.herokuapp.com?user=Aka-Tak&theme=tokyonight&locale=ja&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/Aka-Tak)
 
 <br>
 
-[![](https://github-profile-trophy.vercel.app/?username=Akasan-T&theme=tokyonight&no-frame=true&column=6&margin-w=4)](https://github.com/Akasan-T)
+[![](https://github-profile-trophy.vercel.app/?username=Aka-Tak&theme=tokyonight&no-frame=true&column=6&margin-w=4)](https://github.com/Aka-Tak)
 
 <br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akasan-T&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)](https://github.com/Akasan-T)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aka-Tak&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)](https://github.com/Aka-Tak)
 
 </div>
 
@@ -245,9 +245,9 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akasan-T/Akasan-T/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akasan-T/Akasan-T/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Akasan-T/Akasan-T/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aka-Tak/Aka-Tak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aka-Tak/Aka-Tak/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Aka-Tak/Aka-Tak/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
