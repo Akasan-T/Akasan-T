@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Takumi%20Akahori&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Full-Stack%20Engineer&descAlignY=60&descAlign=50&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Laravel+%2F+ASP.NET+Backend+Developer;Full-Stack+Web+Engineer;Team+Leader+in+3+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Laravel+%2F+ASP.NET+Backend+Developer;Full-Stack+Web+Engineer;Team+Leader+in+3+Projects;Building+products+that+matter+🚀;TypeScript+%2F+Next.js+%2F+Docker+%2F+PostgreSQL;Open+to+Internship+%26+Collaboration+✨)](https://git.io/typing-svg)
 
 <br>
 
@@ -48,6 +48,10 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 <div align="center">
 
+[![Skills](https://skillicons.dev/icons?i=php,laravel,python,django,java,nodejs,ts,js,nextjs,react,html,css,mysql,postgres,prisma,docker,git,github,figma,wordpress&theme=dark&perline=10)](https://skillicons.dev)
+
+<br>
+
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -68,7 +72,6 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -89,7 +92,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://cloudication.app"><img src="https://raw.githubusercontent.com/Aka-Tak/cloudication/main/images/screenshot-clouds.jpg" width="48%" alt="cloudication 雲の投稿"/> <img src="https://raw.githubusercontent.com/Aka-Tak/cloudication/main/images/screenshot-detail.jpg" width="48%" alt="cloudication 投稿詳細"/></a>
+<a href="https://cloudication.app"><img src="https://raw.githubusercontent.com/74616b756d69/cloudication/main/images/screenshot-clouds.jpg" width="48%" alt="cloudication 雲の投稿"/> <img src="https://raw.githubusercontent.com/74616b756d69/cloudication/main/images/screenshot-detail.jpg" width="48%" alt="cloudication 投稿詳細"/></a>
 
 ### ☁️ cloudication / クモニケーション
 **チーム開発 ― フルスタック実装**
@@ -99,12 +102,12 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 `TypeScript` `Next.js` `Express` `Prisma` `PostgreSQL` `AWS S3` `Docker`
 
-[**🌐 Live**](https://cloudication.app) ・ [**リポジトリ**](https://github.com/Aka-Tak/cloudication)
+[**🌐 Live**](https://cloudication.app) ・ [**リポジトリ**](https://github.com/74616b756d69/cloudication)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Aka-Tak/TECJUM-teamE_hikariwo"><img src="https://raw.githubusercontent.com/Aka-Tak/TECJUM-teamE_hikariwo/main/images/lp.png" width="100%" alt="HiKaRiWo"/></a>
+<a href="https://github.com/74616b756d69/TECJUM-teamE_hikariwo"><img src="https://raw.githubusercontent.com/74616b756d69/TECJUM-teamE_hikariwo/main/images/lp.png" width="100%" alt="HiKaRiWo"/></a>
 
 ### 🤝 HiKaRiWo（産学連携）
 **チームリーダー ― 要件定義・実装指揮**
@@ -114,7 +117,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 `Python` `Django` `Docker` `MySQL`
 
-[**→ リポジトリを見る**](https://github.com/Aka-Tak/TECJUM-teamE_hikariwo)
+[**→ リポジトリを見る**](https://github.com/74616b756d69/TECJUM-teamE_hikariwo)
 
 </td>
 </tr>
@@ -136,7 +139,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Aka-Tak/Laravel_ToDo"><img src="https://raw.githubusercontent.com/Aka-Tak/Laravel_ToDo/main/imags/tasklist-page.png" width="100%" alt="Laravel ToDo"/></a>
+<a href="https://github.com/74616b756d69/Laravel_ToDo"><img src="https://raw.githubusercontent.com/74616b756d69/Laravel_ToDo/main/imags/tasklist-page.png" width="100%" alt="Laravel ToDo"/></a>
 
 ### ✅ Laravel ToDo（個人開発）
 **設計・実装すべてを担当**
@@ -146,7 +149,7 @@ Laravel によるタスク管理アプリ。
 
 `PHP` `Laravel` `JavaScript` `MySQL`
 
-[**→ リポジトリを見る**](https://github.com/Aka-Tak/Laravel_ToDo)
+[**→ リポジトリを見る**](https://github.com/74616b756d69/Laravel_ToDo)
 
 </td>
 </tr>
@@ -196,7 +199,7 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 
 `PHP` `Laravel` `CodeMirror` `MySQL` `Docker`
 
-[**→ リポジトリを見る**](https://github.com/Aka-Tak/Code_Note)
+[**→ リポジトリを見る**](https://github.com/74616b756d69/Code_Note)
 
 </td>
 <td width="50%" valign="top">
@@ -218,25 +221,43 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aka-Tak/Aka-Tak/main/metrics.svg" width="100%" alt="GitHub Metrics" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</picture>
 
 <br>
 
-[![](https://github-readme-stats.vercel.app/api?username=Aka-Tak&show_icons=true&count_private=true&theme=tokyonight&locale=ja&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Aka-Tak)
+<img src="https://raw.githubusercontent.com/74616b756d69/74616b756d69/main/metrics.svg" width="100%" alt="GitHub Metrics" />
+
+<br>
+
+[![](https://github-readme-stats.vercel.app/api?username=74616b756d69&show_icons=true&count_private=true&theme=tokyonight&locale=ja&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/74616b756d69)
 &nbsp;
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aka-Tak&layout=compact&theme=tokyonight&locale=ja&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/Aka-Tak)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=74616b756d69&layout=compact&theme=tokyonight&locale=ja&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/74616b756d69)
 
 <br>
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=Aka-Tak&theme=tokyonight&locale=ja&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/Aka-Tak)
+[![](https://github-readme-streak-stats.herokuapp.com?user=74616b756d69&theme=tokyonight&locale=ja&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/74616b756d69)
 
 <br>
 
-[![](https://github-profile-trophy.vercel.app/?username=Aka-Tak&theme=tokyonight&no-frame=true&column=6&margin-w=4)](https://github.com/Aka-Tak)
+[![](https://github-profile-trophy.vercel.app/?username=74616b756d69&theme=tokyonight&no-frame=true&column=6&margin-w=4)](https://github.com/74616b756d69)
 
 <br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aka-Tak&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)](https://github.com/Aka-Tak)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=74616b756d69&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)](https://github.com/74616b756d69)
+
+<br>
+
+[![Capsule Render](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=3&section=header)](https://github.com/74616b756d69)
+
+[![GitHub Time Since](https://img.shields.io/github/created-at/74616b756d69/74616b756d69?label=Profile+Age&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/74616b756d69)
+&nbsp;
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F74616b756d69&query=public_repos&label=Public+Repos&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/74616b756d69?tab=repositories)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/74616b756d69?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/74616b756d69?tab=followers)
 
 </div>
 
@@ -245,9 +266,9 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aka-Tak/Aka-Tak/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aka-Tak/Aka-Tak/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Aka-Tak/Aka-Tak/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/74616b756d69/74616b756d69/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/74616b756d69/74616b756d69/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/74616b756d69/74616b756d69/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
