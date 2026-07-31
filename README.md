@@ -48,7 +48,7 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=php,laravel,python,django,java,nodejs,ts,js,nextjs,react,html,css,mysql,postgres,prisma,docker,git,github,figma,wordpress&theme=dark&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=php,laravel,python,django,cs,dotnet,java,nodejs,ts,js,nextjs,react,html,css,mysql,postgres,prisma,docker,git,github,figma,wordpress&theme=dark&perline=11)](https://skillicons.dev)
 
 <br>
 
@@ -57,6 +57,8 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
