@@ -94,6 +94,28 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/74616b756d69/gourmet-Maps"><img src="https://raw.githubusercontent.com/74616b756d69/gourmet-Maps/develop/image/40754C78-870A-43B2-AD19-056288142DC3.png" width="48%" alt="TABE MAP 地図画面"/> <img src="https://raw.githubusercontent.com/74616b756d69/gourmet-Maps/develop/image/DE5DC42B-74A0-4B9D-9A92-E2CA6663422C.png" width="48%" alt="TABE MAP 記録画面"/></a>
+
+### 🍽️ TABE MAP / グルメマップ（個人開発）
+**モバイルファースト ― 地図 × 記録 × ランキング**
+
+外食したお店の評価を記録し、地図とランキングで振り返れるグルメ記録アプリ。
+現在地周辺検索・店舗重複排除・招待コード認証を備え、React + ASP.NET Core のフルスタック構成で開発。
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-6A1B9A?style=for-the-badge&logo=nuget&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+[**→ リポジトリを見る**](https://github.com/74616b756d69/gourmet-Maps)
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://cloudication.app"><img src="https://raw.githubusercontent.com/74616b756d69/cloudication/main/images/screenshot-clouds.jpg" width="48%" alt="cloudication 雲の投稿"/> <img src="https://raw.githubusercontent.com/74616b756d69/cloudication/main/images/screenshot-detail.jpg" width="48%" alt="cloudication 投稿詳細"/></a>
 
 ### ☁️ cloudication / クモニケーション
@@ -102,11 +124,19 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 匿名で「雲」を投稿し地図上で共有するWebアプリ。**Next.js + Express のモノレポ構成**で
 フロント・バック間の型を共有する type-safe 設計を採用。AWS S3・Mapbox・Prisma を組み合わせた本格的なフルスタック実装。
 
-`TypeScript` `Next.js` `Express` `Prisma` `PostgreSQL` `AWS S3` `Docker`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS%20S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 [**🌐 Live**](https://cloudication.app) ・ [**リポジトリ**](https://github.com/74616b756d69/cloudication)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/74616b756d69/TECJUM-teamE_hikariwo"><img src="https://raw.githubusercontent.com/74616b756d69/TECJUM-teamE_hikariwo/main/images/lp.png" width="100%" alt="HiKaRiWo"/></a>
@@ -117,7 +147,10 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 サントリーGIC様との産学連携PJでチームリーダーを担当。
 要件定義〜リリースのフルサイクルを指揮し、Django + Docker でWebシステムを構築。
 
-`Python` `Django` `Docker` `MySQL`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 [**→ リポジトリを見る**](https://github.com/74616b756d69/TECJUM-teamE_hikariwo)
 
@@ -134,7 +167,10 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 株式会社若鯱家様との産学連携PJ。若年層の集客を課題に、
 アンケート調査をもとに情報設計・デザインからリニューアルを実施。
 
-`HTML/CSS` `JavaScript` `UIデザイン`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![UI Design](https://img.shields.io/badge/UI%20Design-0EA5E9?style=for-the-badge&logo=figma&logoColor=white)
 
 <sub>※ Web公開なし ― 詳細は面談時にご紹介できます</sub>
 
@@ -149,7 +185,10 @@ KADOKAWAドワンゴ情報工科学院 IT総合コース 3年在籍。
 Laravel によるタスク管理アプリ。
 ユーザー認証・CRUD・フォームバリデーションを実装し、バックエンドの基礎を体系的に習得。
 
-`PHP` `Laravel` `JavaScript` `MySQL`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 [**→ リポジトリを見る**](https://github.com/74616b756d69/Laravel_ToDo)
 
@@ -166,7 +205,10 @@ Laravel によるタスク管理アプリ。
 自身のポートフォリオサイト。Three.js による3D演出・GSAPのスクロール
 アニメーションを実装し、WordPressテーマ化にも対応。
 
-`Three.js` `GSAP` `JavaScript` `WordPress`
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 [**→ サイトを見る**](https://takumisportfolio.main.jp)
 
@@ -181,7 +223,9 @@ Laravel によるタスク管理アプリ。
 文化祭の展示作品「花詞データベース」。約50種の花を自ら調査し、
 JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実装。
 
-`HTML/CSS` `JavaScript`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <sub>※ サイト公開なし</sub>
 
@@ -199,7 +243,11 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 コードやメモをMarkdown形式で整理・管理できるWebアプリ。
 リアルタイムMarkdownプレビュー・ラベル管理・画像挿入を実装。
 
-`PHP` `Laravel` `CodeMirror` `MySQL` `Docker`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeMirror](https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=codemirror&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 [**→ リポジトリを見る**](https://github.com/74616b756d69/Code_Note)
 
@@ -210,7 +258,9 @@ JavaScriptで季節・色・由来などテーマ別に絞り込み検索を実�
 クライアント案件として制作に参加したWebサイト。
 実案件のワークフローの中でフロントエンドのコーディングを担当。
 
-`HTML/CSS` `JavaScript`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <sub>※ 掲載のみ承認いただいた案件 ― 詳細は面談時に</sub>
 
